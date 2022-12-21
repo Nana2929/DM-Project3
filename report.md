@@ -3,9 +3,9 @@ tags: course
 ---
 # Link Analysis
 ## 2022 Data Mining Project 3 Report
-- P76114511 資訊所一 楊晴雯
+- P76114511 資訊所一 IKMLab 楊晴雯
 - Source Code: https://github.com/Nana2929/DM-Project3
-
+- Report on Github: https://github.com/Nana2929/DM-Project3/blob/main/report.md
 
 
 ## 1️⃣ Algorithm Description & Python Implementation
